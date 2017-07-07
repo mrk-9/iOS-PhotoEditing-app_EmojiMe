@@ -1,0 +1,21 @@
+PODS:
+  - GRKImageCrop (1.0)
+  - MMSCropView (1.1.0)
+  - TOCropViewController (2.0.11)
+  - YSTutorialViewController (0.2)
+
+DEPENDENCIES:
+  - GRKImageCrop
+  - MMSCropView
+  - TOCropViewController
+  - YSTutorialViewController
+
+SPEC CHECKSUMS:
+  GRKImageCrop: 9e8a4f082c9a988aa82bee5dc3e9cbee10b84d18
+  MMSCropView: be8bb064028bafbb22a2def1b9bf009eaf68be38
+  TOCropViewController: fe91aaab9e95d72ac38654d1174c8c8339585ee5
+  YSTutorialViewController: d2fdc93863a729749cc961df6395b776fbe27874
+
+PODFILE CHECKSUM: 5d1c988b955fdd82ea073862d59ae03a41e6a642
+
+COCOAPODS: 1.0.0
